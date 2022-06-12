@@ -1,10 +1,11 @@
 ## Testing-tech
-Testing technology course
+Testing technology course<br>
+测试技术
 
 **Features**<br>
-Notes and questions of the course
-课程笔记和复习题
+Notes and questions of the course<br>
+笔记和复习题
 
 **Contribute**<br>
-Try to help us with them.
+Try to help us with them.<br>
 欢迎修改添加
