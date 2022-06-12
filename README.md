@@ -1,4 +1,4 @@
-# testing-tech
+# Testing-tech
 Testing technology course
 
 **Features**
